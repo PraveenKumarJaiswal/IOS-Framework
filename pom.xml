@@ -29,13 +29,7 @@
         </dependency>
         <!-- appium end -->
 
-        <!-- log4j start -->
-        <dependency>
-            <groupId>log4j</groupId>
-            <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
-        </dependency>
-        <!-- log4j end -->
+      
 
         <!-- JUnit start -->
         <dependency>
